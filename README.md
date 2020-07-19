@@ -1,0 +1,2 @@
+# Tamagochan
+Tamagoshi de wifu
