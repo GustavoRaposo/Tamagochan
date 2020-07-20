@@ -1,2 +1,8 @@
 .idea
 Tamagochan.iml
+/Tamagochan/nbproject/private/
+/nbproject/private/
+/src/com
+nbproject
+build.xml
+manifest.mf
